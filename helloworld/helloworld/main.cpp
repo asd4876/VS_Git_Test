@@ -1,8 +1,12 @@
 #include "helloworld.h"
 #include <cstdlib>
-int main() {
+
+void test() {
 	helloworld hello;
 	hello.print();
+}
+int main() {
+	test();
 	system("pause");
 	return 0;
 }
