@@ -14,6 +14,7 @@ void test() {
 void swap(int& a, int& b);
 void qsort(vector<int>& data, int l, int h);
 void threeqsort(vector<int>& data, int l, int h);
+/*
 int main() {
     test();
     int xx;
@@ -25,6 +26,7 @@ int main() {
     system("pause");
     return 0;
 }
+*/
 void swap(int& a, int& b) {
     int t = a;
     a = b;
