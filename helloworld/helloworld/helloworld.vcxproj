@@ -122,6 +122,7 @@
     <ClCompile Include="helloworld.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="singleton.cpp" />
+    <ClCompile Include="stackframe.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

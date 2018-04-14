@@ -27,9 +27,10 @@ public:
 void tt() {
     singleton& a = singleton::getInstance();
 }
-
+/*
 int main() {
     singleton& b = singleton::getInstance();
     system("pause");
     return 0;
 }
+*/

@@ -32,5 +32,8 @@
     <ClCompile Include="singleton.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="stackframe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
