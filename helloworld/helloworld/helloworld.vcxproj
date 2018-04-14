@@ -121,6 +121,7 @@
     <ClCompile Include="copy_construct_test.cpp" />
     <ClCompile Include="helloworld.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="sharedptr.cpp" />
     <ClCompile Include="singleton.cpp" />
     <ClCompile Include="stackframe.cpp" />
   </ItemGroup>

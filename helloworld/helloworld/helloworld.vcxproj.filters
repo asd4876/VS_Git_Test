@@ -35,5 +35,8 @@
     <ClCompile Include="stackframe.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="sharedptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
