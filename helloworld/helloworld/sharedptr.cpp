@@ -56,7 +56,9 @@ public:
         else return 0;
     }
 };
+extern const int aaa;
 int main() {
+    std::cout << aaa << std::endl;
     sptr<int> a(new int(1));
     sptr<int> b(a);
     sptr<int> c = a;

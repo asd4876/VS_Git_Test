@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+extern const int aaa = 1;
 void test() {
     helloworld hello;
     helloworld h2;
